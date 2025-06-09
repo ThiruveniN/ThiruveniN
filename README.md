@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Thiruveni
-- 👀 I’m interested in IC Design,Real Time Systems Development,Quantitative Modelling in Python
-- 🌱 I’m currently learning JAVA API
 - 📫 thiruveni2493@gmail.com is were you can drop me a message
